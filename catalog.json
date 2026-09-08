@@ -1,9 +1,11 @@
 {
   "brand": "EducationalLabsHDT",
-  "updated_at": "2026-09-06",
-  "products": [
-    {"id": "ELHDT-FOCO21", "name": "Método Foco 21", "price_usd": 19, "status": "published"},
-    {"id": "ELHDT-FAMHAB", "name": "Hábitos en Familia", "price_usd": 12, "status": "published"},
-    {"id": "ELHDT-STEMKIDS", "name": "Lab STEM en Casa", "price_usd": 15, "status": "published"}
+  "updated": "2026-09-08",
+  "published": [
+    {
+      "id": "ELHDT-STUDYOS-21-2026",
+      "name": "StudyOS 21 — Kit de Estudio Inteligente",
+      "price_usd": 19
+    }
   ]
 }

@@ -1,11 +1,18 @@
 {
   "brand": "EducationalLabsHDT",
-  "updated": "2026-09-08",
+  "updated": "2026-09-11",
   "published": [
     {
       "id": "ELHDT-STUDYOS-21-2026",
       "name": "StudyOS 21 — Kit de Estudio Inteligente",
       "price_usd": 19
+    },
+    {
+      "id": "elhdt-stem-30-casa-2026-09",
+      "sku": "ELHDT-STEM30-ES",
+      "name": "Laboratorio STEM 30 Días en Casa",
+      "price_usd": 19,
+      "landing": "https://educational-labs-hdt-danielhernandeznegrete1521-3559s-projects.vercel.app"
     }
   ]
 }

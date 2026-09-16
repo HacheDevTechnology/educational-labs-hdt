@@ -3,12 +3,19 @@
   "updated": "2026-09-15",
   "products": [
     {
-      "sku": "ELHDT-STUDY-90",
-      "name": "Lab de Estudio 90",
+      "id": "elhdt-family-ai-stem-lab-001",
+      "slug": "family-ai-stem-lab",
+      "name": "Family AI & STEM Starter Lab",
       "type": "digital-bundle",
-      "price_usd": 19,
+      "audience": "parents, teachers, students 8-16",
+      "price_usd": 24,
+      "currency": "USD",
       "status": "published",
-      "do_not_repeat": true
+      "landing": "/index.html",
+      "shop": "/shop.html",
+      "keywords": ["AI for kids", "STEM printables", "family AI literacy", "screen-free STEM", "homeschool AI"],
+      "channels": ["landing", "vercel", "github", "drive"],
+      "notes": "First published SKU. Do not repeat this exact product."
     }
   ]
 }
